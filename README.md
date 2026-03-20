@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Priyal 👋
 
-<!--
-**priyalp145-cmyk/priyalp145-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Analyst  
+💻 Skilled in Python, Machine Learning & Data Analysis  
+📊 Built Heart Disease Prediction Model  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Heart Disease Prediction ML Project
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/priyal-patel-04333b3b3
